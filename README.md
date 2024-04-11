@@ -1,5 +1,4 @@
 Olá eu sou o Wanderson,
-Estagiário em ADS na dti digital.
 
 <div align="center">
   <a href="https://github.com/wandersoncop">
